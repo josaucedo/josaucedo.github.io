@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+	background-color: black;
+
+	font-family: 'Open Sans', sans-serif;
+}
+
+p{
+	font-size: 25px;
+	color: white;
+}
